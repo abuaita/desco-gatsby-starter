@@ -1,1 +1,1 @@
-// fill in!
+import "./src/styles/global.css"
