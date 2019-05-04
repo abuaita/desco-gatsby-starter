@@ -3,32 +3,60 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <circle id="Oval" stroke="#000000" fill="#FFFFFF" cx="232.5" cy="232.5" r="231.5"></circle>
         <path d="M233,0.5 L232.621756,463.5" id="Line" stroke="#000000" stroke-linecap="square" transform="translate(232.500000, 232.000000) rotate(90.000000) translate(-232.500000, -232.000000) "></path>
+        <path d="M322,18 L144.5,446.5" id="Line" stroke="#000000" stroke-linecap="square" transform="translate(233.500000, 232.000000) rotate(90.000000) translate(-233.500000, -232.000000) "></path>
         <path d="M232.5,1 L232.5,464" id="Line" stroke="#000000" stroke-linecap="square"></path>
         <path d="M64.5,391.5 L400.5,73.5" id="Line-2" stroke="#000000" stroke-linecap="square"></path>
+        <path d="M19.5,319.883241 L447,144" id="Line-2" stroke="#000000" stroke-linecap="square"></path>
+        <path d="M136.918074,442.5 L330.479476,21.5" id="Line-2" stroke="#000000" stroke-linecap="square"></path>
         <path d="M64.7007231,391.121756 L400.700723,73.1217558" id="Line-2" stroke="#000000" fill="#D8D8D8" stroke-linecap="square" transform="translate(232.700723, 232.121756) rotate(86.423450) translate(-232.700723, -232.121756) "></path>
-        <text id="Nino’s" fill="#9013FE" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="262" y="92">Nino’s</tspan>
+        <path d="M18.5152841,315.497071 L448.707759,149.510071" id="Line-2" stroke="#000000" fill="#D8D8D8" stroke-linecap="square" transform="translate(233.698775, 232.059374) rotate(86.423450) translate(-233.698775, -232.059374) "></path>
+        <text id="Nino’s" fill="#9013FE" transform="translate(268.384406, 69.638724) rotate(-69.000000) translate(-268.384406, -69.638724) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="228.384406" y="80.6387235">Nino’s</tspan>
         </text>
-        <text id="Sweetgreen" fill="#BD10E0" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="22" y="207">Sweetgreen</tspan>
+        <text id="Kati-Rolls" fill="#9013FE" transform="translate(202.095893, 388.565239) rotate(98.000000) translate(-202.095893, -388.565239) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="142.595893" y="399.565239">Kati Rolls</tspan>
         </text>
-        <text id="Sophie’s" fill="#0D0044" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="103" y="402">Sophie’s</tspan>
+        <text id="Sweetgreen" fill="#BD10E0" transform="translate(77.213927, 204.779275) rotate(189.000000) translate(-77.213927, -204.779275) " font-family="OpenSans-Regular, Open Sans" font-size="26" font-weight="normal">
+            <tspan x="-0.286073146" y="214.779275">Sweetgreen</tspan>
         </text>
-        <text id="Trucks" fill="#417505" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="341" y="188">Trucks</tspan>
+        <text id="Ippudo" fill="#BD10E0" transform="translate(377.940952, 320.760829) rotate(32.000000) translate(-377.940952, -320.760829) " font-family="OpenSans-Regular, Open Sans" font-size="26" font-weight="normal">
+            <tspan x="327.940952" y="330.760829">Ippudo</tspan>
         </text>
-        <text id="Utsav" fill="#D0021B" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="347" y="299">Utsav</tspan>
+        <text id="Sophie’s" fill="#0D0044" transform="translate(134.265242, 366.265242) rotate(130.000000) translate(-134.265242, -366.265242) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="80.7652416" y="377.265242">Sophie’s</tspan>
         </text>
-        <text id="By-Chloe" fill="#4A90E2" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="245" y="402">By Chloe</tspan>
+        <text id="Manhattan" fill="#0D0044" transform="translate(325.835552, 109.368164) rotate(-50.000000) translate(-325.835552, -109.368164) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="253.835552" y="120.368164">Manhattan</tspan>
         </text>
-        <text id="Chipotle" fill="#6E0000" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="28" y="299">Chipotle</tspan>
+        <text id="Trucks" fill="#417505" transform="translate(402.500000, 197.000000) rotate(-7.000000) translate(-402.500000, -197.000000) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="360" y="208">Trucks</tspan>
         </text>
-        <text id="Chick-Fil-A" fill="#F5A623" font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
-            <tspan x="89" y="84">Chick-Fil-A</tspan>
+        <text id="Salad-Bar" fill="#417505" transform="translate(93.662710, 319.883241) rotate(148.000000) translate(-93.662710, -319.883241) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="31.6627105" y="330.883241">Salad Bar</tspan>
+        </text>
+        <text id="Utsav" fill="#D0021B" transform="translate(409.235243, 263.534706) rotate(4.000000) translate(-409.235243, -263.534706) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="372.235243" y="274.534706">Utsav</tspan>
+        </text>
+        <text id="Minar" fill="#D0021B" transform="translate(77.731589, 134.639341) rotate(200.000000) translate(-77.731589, -134.639341) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="39.2315889" y="145.639341">Minar</tspan>
+        </text>
+        <text id="By-Chloe" fill="#4A90E2" transform="translate(268.113120, 391.509657) rotate(77.000000) translate(-268.113120, -391.509657) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="210.61312" y="402.509657">By Chloe</tspan>
+        </text>
+        <text id="Xian-Noodles" fill="#4A90E2" transform="translate(199.353699, 90.413683) rotate(-104.000000) translate(-199.353699, -90.413683) " font-family="OpenSans-Regular, Open Sans" font-size="26" font-weight="normal">
+            <tspan x="119.353699" y="100.413683">Xian Noodles</tspan>
+        </text>
+        <text id="Chipotle" fill="#6E0000" transform="translate(66.377239, 264.772864) rotate(168.000000) translate(-66.377239, -264.772864) " font-family="OpenSans-Regular, Open Sans" font-size="28" font-weight="normal">
+            <tspan x="11.8772386" y="275.772864">Chipotle</tspan>
+        </text>
+        <text id="Gotan" fill="#6E0000" transform="translate(378.512313, 140.737057) rotate(-22.000000) translate(-378.512313, -140.737057) " font-family="OpenSans-Regular, Open Sans" font-size="26" font-weight="normal">
+            <tspan x="341.012313" y="150.737057">Gotan</tspan>
+        </text>
+        <text id="Chick-Fil-A" fill="#F5A623" transform="translate(140.356133, 105.975256) rotate(234.000000) translate(-140.356133, -105.975256) " font-family="OpenSans-Regular, Open Sans" font-size="26" font-weight="normal">
+            <tspan x="74.3561326" y="115.975256">Chick-Fil-A</tspan>
+        </text>
+        <text id="Lenwich" fill="#F5A623" transform="translate(330.657268, 366.905076) rotate(51.000000) translate(-330.657268, -366.905076) " font-family="OpenSans-Regular, Open Sans" font-size="26" font-weight="normal">
+            <tspan x="277.157268" y="376.905076">Lenwich</tspan>
         </text>
     </g>
 </svg>
